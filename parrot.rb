@@ -8,3 +8,4 @@ end
 
 parrot()
 parrot("TOmmy")
+puts parrot("Samba")
